@@ -32,7 +32,7 @@
 		/// </remarks>
 		public static IEnumerable<Order> GetOrder()
 		{
-			string[] lines = File.ReadAllLines(@"C:\Work\Visual Studio 2013\Work\ЕГЭ 2025 Информатика 1 Вариант\1_9.csv");
+			string[] lines = File.ReadAllLines(@"1_9.csv");
 			foreach (string line in lines)
 			{
 				string[] splitLine = line.Split(";");
