@@ -1,7 +1,7 @@
 <a id="anchor"></a>
 # Изучение Расширения: Анализ Реализации Методов Расширения в C#
 
-Implementations of Extension Methods in CSharp
+<a href="https://github.com/DeNaN20250203/Implementations-of-Extension-Methods-in-CSharp" target="_blank"><img src="Cover20250220_003.jpg" alt="Image" width="400" /></a>
 
 В данной статье мы рассмотрим концепцию методов расширения (extension methods) в языке программирования C#, используя конкретный пример реализации двух методов расширения для коллекций заказов ('IEnumerable<Order>'). Мы проанализируем их назначение, различия в подходах к реализации и преимущества использования методов расширения.
 
@@ -73,7 +73,8 @@ public static IEnumerable<Order> GetDistinct(this IEnumerable<Order> orders)
 
 ### Сравнение двух реализаций
 
-!!!здесь табл.
+![image](https://github.com/user-attachments/assets/7d5e9a84-36da-4ef3-9299-db83aa3a0a6d)
+
 
 ### Преимущества использования методов расширения
 1. **Удобство использования**: Методы расширения позволяют писать более читаемый и понятный код. Например, вместо вызова 'SomeClass.SomeStaticMethod(collection)' можно использовать 'collection.SomeMethod()'.</br>
