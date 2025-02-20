@@ -1,0 +1,14 @@
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\bin\Release\net9.0\ConsoleImplementationsExtensionMethods 001.exe
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\bin\Release\net9.0\ConsoleImplementationsExtensionMethods 001.deps.json
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\bin\Release\net9.0\ConsoleImplementationsExtensionMethods 001.runtimeconfig.json
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\bin\Release\net9.0\ConsoleImplementationsExtensionMethods 001.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\bin\Release\net9.0\ConsoleImplementationsExtensionMethods 001.pdb
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ConsoleImplementationsExtensionMethods 001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ConsoleImplementationsExtensionMethods 001.AssemblyInfoInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ConsoleImplementationsExtensionMethods 001.AssemblyInfo.cs
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ConsoleImplementationsExtensionMethods 001.csproj.CoreCompileInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ConsoleImplementationsExtensionMethods 001.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\refint\ConsoleImplementationsExtensionMethods 001.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ConsoleImplementationsExtensionMethods 001.pdb
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ConsoleImplementationsExtensionMethods 001.genruntimeconfig.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleImplementationsExtensionMethods 001\ConsoleImplementationsExtensionMethods 001\obj\Release\net9.0\ref\ConsoleImplementationsExtensionMethods 001.dll
